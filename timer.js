@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    let timeLeft = 3600; // 60 minutes in seconds
+    let timeLeft = 36; // 60 minutes in seconds
     const timerDisplay = document.createElement("div");
     
     timerDisplay.id = "form-timer";
